@@ -1,5 +1,9 @@
 # Chrome插件 - Surfingkeys - 用键盘更方便的操作浏览器
 
+[toc]
+
+- [x] 发布cnblogs
+
 ## 前言
 
 官方介绍：Rich shortcuts to click links/switch tabs/scroll pages or capture full page, use your browser like vim for productivity.A Chrome extension for Vim users, but EMACS users would also love it, as it is much extendable with javascript.
