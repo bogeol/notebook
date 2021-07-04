@@ -3,7 +3,7 @@
 - lucene
 - elastic（有弹性的、可伸缩的）search
 
-## 大概lucene
+## lucene介绍
 
 > https://lucene.apache.org/
 
@@ -18,7 +18,7 @@
   - 分析能力【analyze】
   - 分词（符号识别）能力
 
-## 大概es
+## es介绍
 
 **Elasticsearch** is a [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) based on the [Lucene](https://en.wikipedia.org/wiki/Lucene) library.
 

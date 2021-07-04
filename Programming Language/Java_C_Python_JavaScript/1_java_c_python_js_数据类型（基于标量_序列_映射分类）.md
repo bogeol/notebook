@@ -64,7 +64,7 @@
         List list_ = new ArrayList();
         Set set_ = new HashSet();
         Queue queue_ = new PriorityQueue();
-        Map map = new HashMap();
+        Map map_ = new HashMap();
 ```
 
 ### 操作【CRUD】
